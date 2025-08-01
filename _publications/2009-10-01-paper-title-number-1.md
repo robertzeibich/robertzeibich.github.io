@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Applications for Deep Learning in Epilepsy Research"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Epilepsy is a group of brain disorders characterised by an enduring predisposition to generate unprovoked seizures. Fuelled by advances in sequencing technologies and computational approaches, more than 900 genes have now been implicated in epilepsy. The development and optimisation of tools and methods for analysing the vast quantity of genomic data is a rapidly evolving area of research. Deep learning (DL) is a subset of machine learning (ML) that brings opportunity for novel investigative strategies that can be harnessed to gain new insights into the genomic risk of people with epilepsy. DL is being harnessed to address limitations in accuracy of long-read sequencing technologies, which improve on short-read methods. Tools that predict the functional consequence of genetic variation can represent breaking ground in addressing critical knowledge gaps, while methods that integrate independent but complimentary data enhance the predictive power of genetic data. We provide an overview of these DL tools and discuss how they may be applied to the analysis of genetic data for epilepsy research.'
+date: 2023-09-27
+venue: 'International Journal of Molecular Sciences'
+slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC10572791/pdf/ijms-24-14645.pdf'
+bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
+citation: "Zeibich R, Kwan P, J O'Brien T, Perucca P, Ge Z, Anderson A. (2023). Applications for Deep Learning in Epilepsy Genetic Research. <i>International Journal of Molecular Sciences</i>."
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Epilepsy is a group of brain disorders characterised by an enduring predisposition to generate unprovoked seizures. Fuelled by advances in sequencing technologies and computational approaches, more than 900 genes have now been implicated in epilepsy. The development and optimisation of tools and methods for analysing the vast quantity of genomic data is a rapidly evolving area of research. Deep learning (DL) is a subset of machine learning (ML) that brings opportunity for novel investigative strategies that can be harnessed to gain new insights into the genomic risk of people with epilepsy. DL is being harnessed to address limitations in accuracy of long-read sequencing technologies, which improve on short-read methods. Tools that predict the functional consequence of genetic variation can represent breaking ground in addressing critical knowledge gaps, while methods that integrate independent but complimentary data enhance the predictive power of genetic data. We provide an overview of these DL tools and discuss how they may be applied to the analysis of genetic data for epilepsy research.
