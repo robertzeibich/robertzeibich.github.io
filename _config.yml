@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_2530.jpg"
+  avatar           : "IMG_2530.JPG"
   name             : "Robert Zeibich"
   pronouns         : # example: "she/her"  
   bio              : "Bioinformatician with expertise in AI. I am passionate about developing novel computational approaches that contribute to our wellbeing."
