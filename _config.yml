@@ -82,8 +82,12 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  publication:
     title: 'Journal Articles'    
+  preprint:
+    title: 'Pre-Print'  
+  inprogress:
+    title: 'Coming Soon'
   conferences:
     title: 'Conference Papers'
 

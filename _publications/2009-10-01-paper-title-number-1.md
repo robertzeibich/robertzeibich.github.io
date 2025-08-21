@@ -1,7 +1,7 @@
 ---
 title: "Applications For Deep Learning In Epilepsy Research"
 collection: publications
-category: manuscripts
+category: publication
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Epilepsy is a group of brain disorders characterised by an enduring predisposition to generate unprovoked seizures. Fuelled by advances in sequencing technologies and computational approaches, more than 900 genes have now been implicated in epilepsy. The development and optimisation of tools and methods for analysing the vast quantity of genomic data is a rapidly evolving area of research. Deep learning (DL) is a subset of machine learning (ML) that brings opportunity for novel investigative strategies that can be harnessed to gain new insights into the genomic risk of people with epilepsy. DL is being harnessed to address limitations in accuracy of long-read sequencing technologies, which improve on short-read methods. Tools that predict the functional consequence of genetic variation can represent breaking ground in addressing critical knowledge gaps, while methods that integrate independent but complimentary data enhance the predictive power of genetic data. We provide an overview of these DL tools and discuss how they may be applied to the analysis of genetic data for epilepsy research.'
 date: 2023-09-27
