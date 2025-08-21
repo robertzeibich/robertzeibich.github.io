@@ -92,10 +92,10 @@ publication_category:
     title: 'Conference Papers'
 
 talk_category:
-  poster:
-    title: 'Poster Presentation'
   conference:
     title: 'Conference Talks'
+  poster:
+    title: 'Poster Presentations'
   workshop:
     title: 'Workshops'
   seminar:
