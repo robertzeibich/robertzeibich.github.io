@@ -7,7 +7,7 @@ excerpt: '<p><strong>Importance.</strong> Carbamazepine (CBZ) is a first-line tr
 date: 2024-11-09
 venue: 'THE LANCET (preprint)'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5014142'
+paperurl: 'https://papers.ssrn.com/sol3/Delivery.cfm/091d7194-9780-47d7-9d4c-633ad0759e05-MECA.pdf?abstractid=5014142&mirid=1'
 citation: ' Zeibich, Robert; Anderson, Alison; Chen, Zhibin; Shi, Yi-Wu; Ng, Ching-Ching; Baum, Larry; Cherny, Stacey; Sham, Pak-Chung; Lim, Kheng Seang; Liao, Wei-Ping; O’Brien, Terence J.; Perucca, Piero; and Kwan, Patrick. Development of a Machine Learning Polyvariant Risk Prediction Model for Severe Cutaneous Adverse Drug Reactions to Carbamazepine and Other Aromatic Antiseizure Medications. Preprint: THE LANCET. 2024 Nov 9. <a href="https://ssrn.com/abstract=5014142" target="_blank">View article online</a>'
 ---
 <p><strong>Importance.</strong> Carbamazepine (CBZ) is a first-line treatment for epilepsy and neuropathic pain but carries risk for severe and sometimes life-threatening cutaneous reactions. Across Asian populations, the human leukocyte antigen HLA-B*15:02 in chromosome 6 is strongly associated with these adverse reactions, but the estimated positive predictive value (PPV) is only 0.07.</p><p><strong> Objective.</strong> To develop a polyvariant risk prediction model with improved PPV.</p>
