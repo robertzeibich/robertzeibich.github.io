@@ -2,13 +2,12 @@
 title: "Optimising Whole-Genome Sequencing Diagnostics In Epilepsy"
 collection: publications
 category: inprogress
-published: false
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-08-21
-venue: ''
-paperurl: ''
-citation: ''
+venue: 'undefined'
+#paperurl: ''
+#citation: ''
 ---
 
 <p><strong>Background.</strong>  Whole-genome sequencing (WGS) is increasingly applied in clinical medicine, but 
