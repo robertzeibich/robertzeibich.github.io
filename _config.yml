@@ -92,8 +92,8 @@ publication_category:
     title: 'Conference Papers'
 
 talk_category:
-  invited:
-    title: 'Invited Talks'
+  poster:
+    title: 'Poster Presentation'
   conference:
     title: 'Conference Talks'
   workshop:
